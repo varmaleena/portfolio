@@ -1,0 +1,82 @@
+body{
+  background-image: url("b.png");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  width:100%;
+  
+}
+/* Style the navigation bar */
+nav {
+  background-color: #d6d310;
+  color:black(75, 90%, 49%);
+}
+
+/* Style the unordered list to display horizontally */
+nav ul {
+  list-style: none;
+  padding:10px;
+  margin:0px;
+  display: flex; /* Display items horizontally */
+  
+}
+
+/* Style the list items (navigation links) */
+nav li {
+  margin: 10px 20px; /* Add space between items */
+}
+
+/* Style the links */
+nav a {
+  text-decoration: none;
+  color: #100101d1;
+  font-size:20px;
+}
+
+/* Change link color on hover */
+nav a:hover {
+  color: #ffcc00;
+}
+
+h1{
+  color:rgb(20, 2, 2);
+  font-size: 55px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  position:relative;
+  
+  top:50px;
+  left:250px;
+  
+}
+.c
+{
+  width:200px;
+  height:230px;
+  position:relative;
+  left:900px;
+  bottom:400px;
+  
+  background-image:url("f1-removebg-preview.png");
+}
+p{
+  font-size:25px;
+  position:relative; 
+  top:50px;
+  left:400px;
+}
+  
+h2{
+  font-size:30px;
+  position:relative; 
+  top:50px;
+  left:400px;
+}
+h3{
+  position:relative;
+  bottom:100px;
+  left:1000px;
+  font-size:20px;
+  
+}
+  
